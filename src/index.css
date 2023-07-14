@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(51, 49, 49);
+  color: bisque;
+  display: grid;
+  align-items: center;
+}
+
+#op-red {
+  background-color: red;
+}
+
+#op-green {
+  background-color: green;
+}
+
+#op-blue {
+  background-color: blue;
+}
+
+#op-yellow {
+  background-color: yellow;
+}
